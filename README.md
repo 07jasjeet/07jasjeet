@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jasjeet Singh
 - 👀 I’m interested in Full stack Android Development and Open Source Contribution at the moment.
 - 🌱 I’m currently learning Front-end Android Development.
-- 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me on my email 07jasjeet@gmail.com
